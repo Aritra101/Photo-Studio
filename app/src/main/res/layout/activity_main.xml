@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:padding="10dp">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/imgV"
+        android:layout_marginTop="20dp"
+        android:scaleType="fitXY"
+        />
+    <Gallery
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/galleryV"
+        android:layout_marginTop="100dp"
+        android:unselectedAlpha="0.25"
+        />
+    <!-- It is a property of animation class -->
+    <!-- Unselected Alpha is used to set the Alpha on the items
+         that are not selected-->
+</LinearLayout>
