@@ -14,7 +14,7 @@ Photo Studio is an application that allows users to view and manage their photo 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/android-photo-gallery.git`
+1. Clone the repository: `git clone https://github.com/your-username/photo-studio.git`
 2. Open the project in Android Studio.
 3. Build and run the application on an Android device or emulator.
 
