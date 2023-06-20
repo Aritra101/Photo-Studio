@@ -6,12 +6,11 @@ Photo Studio is an application that allows users to view and manage their photo 
 
 - **Image Display**: The application presents photos in a grid or list format, allowing users to browse through their images with ease. Tapping on an image displays a larger view of the photo, enabling users to see the details more clearly.
 
-- **Image Management**: Users can perform basic photo management operations such as adding new photos, deleting unwanted photos, and organizing photos into albums or folders.
 
 ## Prerequisites
 
-- Android SDK with minimum API level XX (update with the appropriate API level)
-- Android Studio XX (update with the appropriate version)
+- Android SDK 
+- Android Studio
 
 ## Getting Started
 
