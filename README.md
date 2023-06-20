@@ -25,17 +25,4 @@ Photo Studio is an application that allows users to view and manage their photo 
 3. Tap on an image to view it in full screen.
 4. Perform photo management operations, such as adding or deleting photos, as per the provided options.
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to the Android Photo Gallery project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add your feature description'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Create a pull request explaining your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
